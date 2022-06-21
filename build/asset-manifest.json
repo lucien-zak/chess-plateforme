@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "https://lucien-zak.students-laplateforme.io/chess/static/css/main.9d8a5b80.css",
+    "main.js": "https://lucien-zak.students-laplateforme.io/chess/static/js/main.6ef25561.js",
+    "static/js/27.a5f7a00f.chunk.js": "https://lucien-zak.students-laplateforme.io/chess/static/js/27.a5f7a00f.chunk.js",
+    "index.html": "https://lucien-zak.students-laplateforme.io/chess/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.9d8a5b80.css",
+    "static/js/main.6ef25561.js"
+  ]
+}
